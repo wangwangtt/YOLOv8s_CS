@@ -3,7 +3,7 @@ This is the official implementation of the YOLOv8s_CS model proposed in our pape
 
 Code Structure
 yolov8-master/: Based on YOLOv8, integrated with C2f_S module
-Training and evaluation code will be released upon paper acceptance.
+
 
 Usage
 Clone the repo
